@@ -1,9 +1,3 @@
-//
-//  LinkedList.hpp
-//  LinkedList.hpp
-//
-//  Created by Parth Sunil Songire on 06/09/22.
-//
 
 #ifndef LinkedList_h
 #define LinkedList_h
