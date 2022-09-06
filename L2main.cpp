@@ -1,9 +1,3 @@
-//
-//  main.cpp
-//  VectorClass.cpp
-//
-//  Created by Parth Sunil Songire on 21/08/22.
-//
 
 #include <iostream>
 #include <string>
