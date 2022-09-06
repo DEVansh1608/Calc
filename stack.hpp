@@ -1,9 +1,3 @@
-//
-//  stack.hpp
-//  LinkedList.hpp
-//
-//  Created by Parth Sunil Songire on 06/09/22.
-//
 
 #ifndef stack_h
 #define stack_h
